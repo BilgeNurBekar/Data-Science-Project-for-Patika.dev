@@ -6,17 +6,19 @@
     
 Veri bilimciler ve uygulamaları sayesinde bir çok alan gelişti 
 
-'''python
+'''    
+
     otonom sistemler
     tahmine dayalı modelleme 
     sınıflandırma ve kategorizasyon 
     duygu davranış analizi 
+
 '''
 ![Markdown Resim](https://www.veribilimiokulu.com/wp-content/uploads/2020/03/1-2-e1585215346554.png)
     
 ## Veri Bilimi İçin Gerekli Bazı Terimler 
 
-'''python
+'''
 
     supervised learning - Bütün veriler etiketlenmiştir. Algoritmalar, girdi verilerinden çıktıyı tahmin etmeyi öğrenirler
    
