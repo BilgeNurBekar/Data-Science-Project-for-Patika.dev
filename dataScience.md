@@ -6,7 +6,7 @@
     
 Veri bilimciler ve uygulamaları sayesinde bir çok alan gelişti 
 
-'''
+'''python
     otonom sistemler
     tahmine dayalı modelleme 
     sınıflandırma ve kategorizasyon 
@@ -16,7 +16,8 @@ Veri bilimciler ve uygulamaları sayesinde bir çok alan gelişti
     
 ## Veri Bilimi İçin Gerekli Bazı Terimler 
 
-'''
+'''python
+
    supervised learning - Bütün veriler etiketlenmiştir. Algoritmalar, girdi verilerinden çıktıyı tahmin etmeyi öğrenirler
    
    Unsupervised learning : Hiç bir veri etiketlenmemiştir. Algoritmalar girdi verilerinden doğal yapıyı öğrenirler.
