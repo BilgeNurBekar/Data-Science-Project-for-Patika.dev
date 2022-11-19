@@ -18,23 +18,23 @@ Veri bilimciler ve uygulamaları sayesinde bir çok alan gelişti
 
 '''python
 
-   supervised learning - Bütün veriler etiketlenmiştir. Algoritmalar, girdi verilerinden çıktıyı tahmin etmeyi öğrenirler
+    supervised learning - Bütün veriler etiketlenmiştir. Algoritmalar, girdi verilerinden çıktıyı tahmin etmeyi öğrenirler
    
-   Unsupervised learning : Hiç bir veri etiketlenmemiştir. Algoritmalar girdi verilerinden doğal yapıyı öğrenirler.
+    Unsupervised learning : Hiç bir veri etiketlenmemiştir. Algoritmalar girdi verilerinden doğal yapıyı öğrenirler.
    
-   regression - Örneğin yaş bilgisi isteniyorsa  
+    regression - Örneğin yaş bilgisi isteniyorsa  
    
-   classification - Bu yaş bilgisi için % isteniyorsa 
+    classification - Bu yaş bilgisi için % isteniyorsa 
    
-   bias - Modelin yanlılık miktarını ifade eder
+    bias - Modelin yanlılık miktarını ifade eder
    
-   train - Train veri seti üzerinde temel modelleme denemeleri yapılarak en doğru makine öğrenmesi algoritması seçilmeye çalışılır. Bu veri seti üzerinden en fazla örneklem alınan gözlemlerden (rows) oluşur.
+    train - Train veri seti üzerinde temel modelleme denemeleri yapılarak en doğru makine öğrenmesi algoritması seçilmeye çalışılır. Bu veri seti üzerinden en fazla örneklem alınan gözlemlerden (rows) oluşur.
    
-   validation  - Validation bölümü train veri seti içinden seçilir. Validation bölümünde uygulanan model iyileştirilmeye çalışılır. Bunun için hiper parametrik (hyperparameter tuning) uygulamalar denenerek en optimum katsayılar/ağırlıklar bulunmaya çalışılır.
+    validation  - Validation bölümü train veri seti içinden seçilir. Validation bölümünde uygulanan model iyileştirilmeye çalışılır. Bunun için hiper parametrik (hyperparameter tuning) uygulamalar denenerek en optimum katsayılar/ağırlıklar bulunmaya çalışılır.
    
-   test - İçinde Validation datasının yer aldığı Train veri setinden kalan bölüme Test veri seti diyebiliriz. Bu bölümde tahminler ile gerçek veriler karşılaştırılır.
+    test - İçinde Validation datasının yer aldığı Train veri setinden kalan bölüme Test veri seti diyebiliriz. Bu bölümde tahminler ile gerçek veriler karşılaştırılır.
    
-   overfitting - Veri kümesine aşırı oranda uyum göstermesi, dolayısıyla bu veri kümesinde yer almayan yeni verilere uyum sağlayamaması problemidir.
+    overfitting - Veri kümesine aşırı oranda uyum göstermesi, dolayısıyla bu veri kümesinde yer almayan yeni verilere uyum sağlayamaması problemidir.
    
    
 
